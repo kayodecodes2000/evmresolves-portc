@@ -139,9 +139,9 @@ form.addEventListener("submit", async function(e) {
 
 
 // Dee new email updated
-FD.append("service_id", "service_k1e1b3a"),
-    FD.append("template_id", "template_m0g484a");
-    FD.append("user_id", "UJAefUeGPfV2nS1Z1");
+// FD.append("service_id", "service_k1e1b3a"),
+//     FD.append("template_id", "template_m0g484a");
+//     FD.append("user_id", "UJAefUeGPfV2nS1Z1");
 // end
 
 
@@ -149,9 +149,9 @@ FD.append("service_id", "service_k1e1b3a"),
 
 
 
-    // FD.append("service_id", "service_k1e1b3a");
-    // FD.append("template_id", "template_m0g484a");
-    // FD.append("user_id", "UJAefUeGPfV2nS1Z1");
+    FD.append("service_id", "service_k1e1b3a");
+    FD.append("template_id", "template_m0g484a");
+    FD.append("user_id", "UJAefUeGPfV2nS1Z1");
     //   tosin
     // FD.append("service_id", "service_vncztzu");
     // FD.append("template_id", "template_64d3u8c");
