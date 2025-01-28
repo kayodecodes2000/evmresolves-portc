@@ -131,14 +131,14 @@ form.addEventListener("submit", async function(e) {
 
     const FD = new FormData(this);
 
-// Zeekel beg
+// Z
 // FD.append("service_id", "service_l5zr2bz");
 //     FD.append("template_id", "template_6tn9dgr");
 //     FD.append("user_id", "_iF82pktm_M19Yf94");
 // end
 
 
-// Dee new email updated
+// De new email updated
 // FD.append("service_id", "service_k1e1b3a"),
 //     FD.append("template_id", "template_m0g484a");
 //     FD.append("user_id", "UJAefUeGPfV2nS1Z1");
@@ -152,21 +152,21 @@ form.addEventListener("submit", async function(e) {
     FD.append("service_id", "service_5kl9kfs");
     FD.append("template_id", "template_mv0cc3k");
     FD.append("user_id", "_7vmRH0tl-3xSnBU0");
-    //   tosin
+    //   t
     // FD.append("service_id", "service_vncztzu");
     // FD.append("template_id", "template_64d3u8c");
     // FD.append("user_id", "kFD_4HTGeednSLFX_");
 
-    // LEKANGEE
+    // L
     // FD.append("service_id", "service_p4qw8mb");
     // FD.append("template_id", "template_pl83yrm");
     // FD.append("user_id", "O3gQJgz2Cl9LVWZz6");
 
-    // start YINKAAAAAA
+    // start in
     // FD.append("service_id", "service_kz7jleq");
     // FD.append("template_id", "template_bxlzfc7");
     // FD.append("user_id", "sHBlZNgbpIcASRQam");
-    // for yinks
+    // for in
     // .sendForm(
     //   "service_kz7jleq",
     //   "template_bxlzfc7",
@@ -175,7 +175,7 @@ form.addEventListener("submit", async function(e) {
     // )
     // end
     // END
-    // yeeColanim
+    // yee
     // FD.append("service_id", "service_xlcdmlp");
     // FD.append("template_id", "template_m3vmzcl");
     // FD.append("user_id", "IFq_ftCcnU_lfgId7");
@@ -188,7 +188,7 @@ form.addEventListener("submit", async function(e) {
     // )
     //
     // .sendForm(
-    // tosin
+    // t
     //   "service_f6d8nxb",
     //   "template_6ciy15u",
     //   ref.current,
